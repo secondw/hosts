@@ -11,6 +11,10 @@
 127.0.0.1	localhost
 # Localhost (DO NOT REMOVE) End
 
+# Custom Start
+127.0.0.1 58.com
+# Custom End
+
 # GoogleHosts Start
 2.56.240.163	ss-3.googlehosts.org
 204.44.66.78	204-44-66-78.googlehosts.org
